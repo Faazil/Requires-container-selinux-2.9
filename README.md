@@ -6,3 +6,5 @@
 2.This could help you :
 
 [root@worker-node1 run]# subscription-manager repos --enable=rhel-7-server-extras-rpms
+
+version: 2.0
